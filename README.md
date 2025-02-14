@@ -15,8 +15,8 @@
 
 ```bash
 npm i 全局安装包
-npm build 进行编译打包为js
-npm start 进行转换
+npm run build 进行编译打包为js
+npm run start 进行转换
 
 ```
 ## 许可证
@@ -24,3 +24,6 @@ npm start 进行转换
 
 ## 支持
 如果你遇到任何问题或有疑问，请在 GitHub 上 提交问题。
+
+## 效果图
+![rd.gif](rd.gif)
